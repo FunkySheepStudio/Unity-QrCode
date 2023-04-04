@@ -1,2 +1,4 @@
+<img src="https://www.funkysheep.net/img/Logo-Head-Mini.png" alt="drawing" width="200"/>
+
 # Unity-QrCode
-QR Code Generator for Unity
+FunkySheep QrCode Library for Unity 3D
