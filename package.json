@@ -1,7 +1,7 @@
 {
   "name": "net.funkysheep.unity.qrcode",
   "displayName": "FunkySheep Unity QrCode Library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2020.3",
   "description": "FunkySheep framework QrCode Library",
   "keywords": [
